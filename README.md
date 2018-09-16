@@ -36,5 +36,7 @@ Value : any file
 Step to start the application:
 
 Step : 1 Download all dependencies. Command : npm install
+
 Step : 2 Start the application. Command : npm start
+
 Step : 3 Unit test the application. Command : npm test
