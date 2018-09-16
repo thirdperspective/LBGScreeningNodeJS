@@ -1,0 +1,177 @@
+[2018-09-16T22:30:34.831] [DEBUG] default - Web services is now Running on port: 3001
+[2018-09-16T22:34:27.715] [DEBUG] default - Web services is now Running on port: 3001
+[2018-09-16T22:35:18.688] [DEBUG] default - middleware configuration are setted
+[2018-09-16T22:35:18.690] [DEBUG] default - File upload operation is called
+[2018-09-16T22:36:39.000] [DEBUG] default - Web services is now Running on port: 3001
+[2018-09-16T22:36:51.498] [DEBUG] default - file content getting operation is called
+[2018-09-16T22:38:11.735] [DEBUG] default - Web services is now Running on port: 3001
+[2018-09-16T22:38:23.542] [DEBUG] default - middleware configuration are setted
+[2018-09-16T22:38:23.545] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:13:02.646] [DEBUG] default - Web services is now Running on port: 3001
+[2018-09-16T23:13:55.915] [DEBUG] default - Web services is now Running on port: 3001
+[2018-09-16T23:14:28.095] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:14:42.208] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:14:42.209] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:14:56.620] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:15:34.776] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:15:34.777] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:24:13.185] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:24:13.187] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:25:32.818] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:25:32.819] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:25:32.833] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:25:32.834] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:25:51.298] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:25:51.299] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:25:51.316] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:25:51.317] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:27:24.383] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:27:24.383] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:27:24.408] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:27:24.409] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:27:24.413] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:27:24.414] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:28:18.542] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:28:18.543] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:28:18.555] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:28:18.555] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:28:18.558] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:28:18.559] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:28:18.563] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:28:18.564] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:29:47.980] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:29:47.981] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:29:47.993] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:29:47.993] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:29:47.998] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:29:48.000] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:29:48.005] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:29:48.006] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:30:37.085] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:30:37.086] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:30:37.097] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:30:37.097] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:30:37.102] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:30:37.103] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:30:37.106] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:30:37.107] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:30:37.112] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:30:37.113] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:31:16.053] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:31:16.054] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:31:16.068] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:31:16.069] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:31:16.074] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:31:16.075] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:31:16.082] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:31:16.083] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:31:16.091] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:31:16.091] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:31:16.095] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:31:16.095] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:35:56.384] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.387] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:35:56.416] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.417] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:35:56.421] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.422] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:35:56.429] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.432] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:35:56.437] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.438] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:35:56.441] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.442] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:35:56.448] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:35:56.450] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:36:26.221] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.222] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:36:26.239] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.243] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:36:26.247] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.247] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:36:26.251] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.251] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:36:26.256] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.257] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:36:26.261] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.261] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:36:26.269] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.270] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:36:26.275] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:36:26.276] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:37:33.350] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.350] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:37:33.361] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.362] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:37:33.367] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.367] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:37:33.373] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.374] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:37:33.378] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.379] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:37:33.383] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.384] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:37:33.390] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.391] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:37:33.398] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.400] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:37:33.406] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:37:33.407] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:43:41.673] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.674] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:43:41.690] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.691] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:43:41.695] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.696] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:43:41.699] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.699] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:43:41.705] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.706] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:43:41.710] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.710] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:43:41.716] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.716] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:43:41.722] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.725] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:43:41.732] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:43:41.733] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:44:06.632] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.633] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:44:06.648] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.648] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:44:06.654] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.655] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:44:06.658] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.658] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:44:06.661] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.662] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:44:06.665] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.667] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:44:06.671] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.672] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:44:06.675] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.676] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:44:06.681] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.683] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:44:06.699] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:44:06.716] [DEBUG] default - File upload operation is called
+[2018-09-16T23:45:09.312] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.312] [DEBUG] default - file content getting operation is called
+[2018-09-16T23:45:09.325] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.325] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:45:09.331] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.332] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:45:09.336] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.338] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:45:09.348] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.349] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:45:09.352] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.353] [DEBUG] default - Product operation with two input operation is called
+[2018-09-16T23:45:09.361] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.362] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:45:09.366] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.367] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:45:09.371] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.371] [DEBUG] default - First non repeative character operation is called
+[2018-09-16T23:45:09.386] [DEBUG] default - middleware configuration are setted
+[2018-09-16T23:45:09.394] [DEBUG] default - File upload operation is called
